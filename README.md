@@ -44,6 +44,8 @@ This is a collection of resources related with graph neural networks.
 
 1. **Graph Neural Networks: A Review of Methods and Applications** *Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun.* 2018 [paper](https://arxiv.org/pdf/1812.08434.pdf)
 
+1. **Graph Neural Networks in Computer Vision - Architectures, Datasets and Common Approaches** *Maciej Krzywda, Łukasik Szymon, Amir H. Gandomi.* 2022 [paper](https://ieeexplore.ieee.org/abstract/document/9892658)
+
 
 
 <a name="papers" />
